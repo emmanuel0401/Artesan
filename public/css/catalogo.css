@@ -1,0 +1,137 @@
+*{
+    margin: auto;
+    
+}
+
+header {
+width: auto;
+height: 55px;
+background-color: #333;
+}
+
+img{
+	display: block;
+	float:left;
+}
+
+h2{
+	color:white;
+}
+
+h1{
+text-align:center;
+font-size: 25px;
+color: white;
+}
+
+.menu{
+width: auto;
+height: 50px;
+text-align: center;
+text-decoration: none;
+background-color:#333 ; 
+}
+
+.menu ul li{
+margin-top:5px;
+display:inline-block;
+}
+
+.menu ul li a{
+	color:white;
+	overflow: hidden;
+	float: center;
+	text-decoration: none;
+	margin-left: 21px;
+	margin-right: 21px;
+	font-size: 23px;
+	-webkit-transition:all 500ms ease;
+}
+.menu ul li a:hover{
+	background: #000; 
+	padding:10px;
+	background-color:#0C3585; 
+	color: #fff;
+}
+
+
+#contenido{
+	float: center;
+	height: 300px;
+	width: 1349px;
+}
+
+#contenido4{
+	background-color:#333;
+	padding: 35px;
+}
+
+#contenido2{
+	float: center;
+	width: 1200px;
+	height: 330px;
+	background-color:white;
+    margin-top: 40px;
+    margin-bottom: 30px;
+	border:solid 4px;
+	border-color: blue;
+	border-radius: 10px;
+}
+
+.producto{
+    margin: 20px;
+	width: 350px;
+	height: 300px;
+    float: left;
+    border:solid 4px;
+    border-color: gray;
+    display: block;
+}
+
+
+h2{
+    padding-top: 30px;
+    color:black;
+	font-size: 30px;
+	text-align:center;
+}
+
+p{
+	font-size: 20px;
+	text-align:center;
+}
+
+#contenido3{
+width: 1200px;
+height: 350px;
+background-color:white;
+	border:solid 4px;
+	border-color: blue;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+
+footer{
+width: auto;
+height: 120px;
+color: white;	
+background-color: #333;
+font-size: 10px;
+}
+
+.redsocial{
+	width: auto;
+	text-align: center;
+	float: center;
+}
+
+.redsocial ul li{
+text-align: center;
+display: inline-block;
+list-style: none;
+padding-left: 15px;
+}
+
+.redsocial ul li a{
+text-decoration:none;
+}
